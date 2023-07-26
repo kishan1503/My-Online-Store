@@ -1,0 +1,50 @@
+/* Navigation */
+
+#navbar{
+    flex-direction: column;
+}
+
+/* Home section */
+
+
+#home{
+    height: 715px;
+
+
+}
+
+#home::beor{
+    height: 280px;
+    
+
+}
+
+#h-primaryhome{
+    height: 200px;
+}
+
+/* Serices section */
+
+
+#services{
+    flex-direction: column; 
+    
+}
+
+/* Client section */
+
+#clients{
+    overflow: hidden;
+}
+
+
+
+/* Contact Us section */
+
+
+
+
+
+
+
+
